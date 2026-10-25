@@ -1,0 +1,511 @@
+{
+  "meta": {
+    "title": "Media Pembelajaran Pendidikan Pancasila / PPKn Kelas VII",
+    "subtitle": "Kurikulum Merdeka • Pembelajaran Mendalam (Deep Learning & KBC Kemenag)",
+    "school": "MTs. Darul Istiqamah Kanreapia",
+    "course": "Pendidikan Pancasila / PPKn",
+    "grade": "Kelas VII / Fase D",
+    "year": "2026/2027"
+  },
+  "atp": [
+    {
+      "id": "tp-1",
+      "semester": 1,
+      "bab": "Bab 1 • Proses Perumusan dan Penetapan Pancasila sebagai Dasar Negara",
+      "meeting": 1,
+      "title": "Sejarah Perumusan Pancasila & BPUPK",
+      "tp": "Menganalisis latar belakang sejarah perumusan Pancasila dalam Sidang I BPUPK dengan menumbuhkan rasa syukur atas keteladanan para pendiri bangsa (Mindful & Cinta Allah).",
+      "material": "Sejarah Perumusan Pancasila & BPUPK",
+      "time": "2 JP",
+      "focus": "Mindful & Cinta Allah",
+      "status": "draft",
+      "lesson": {
+        "hook": "Mengapa para pendiri negara kita dapat saling menghormati meskipun memiliki latar belakang pemikiran dan pandangan yang berbeda saat merumuskan dasar negara?",
+        "objectives": [
+          "Menjelaskan latar belakang sejarah pembentukan BPUPK dan proses perumusan Pancasila.",
+          "Menganalisis nilai-nilai keteladanan dan rasa syukur atas perjuangan serta adab kebangsaan para pendiri bangsa."
+        ],
+        "sections": [
+          {
+            "title": "Konsep Inti: Perumusan Dasar Negara dalam BPUPK",
+            "body": "Proses perumusan Pancasila dilakukan dalam Sidang I BPUPK (29 Mei - 1 Juni 1945) oleh para pendiri bangsa dengan mengedepankan musyawarah, adab kebangsaan, dan rasa keimanan.",
+            "points": [
+              "Pembentukan BPUPK pada 1 Maret 1945 dan tugas utamanya menyelidiki usaha persiapan kemerdekaan.",
+              "Usulan gagasan dasar negara oleh Mr. Mohammad Yamin, Prof. Dr. Soepomo, dan Ir. Soekarno.",
+              "Integrasi nilai ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sosial."
+            ]
+          }
+        ],
+        "case": {
+          "title": "Studi Kasus: Musyawarah Kebangsaan Pendiri Negara",
+          "body": "Menganalisis dinamika perbedaan pendapat antara para tokoh kebangsaan saat Sidang BPUPK dan bagaimana mereka menyelesaikannya secara damai dan beradab.",
+          "questions": [
+            "Apa masalah utama dan perbedaan pandangan dalam sidang tersebut?",
+            "Konsep keteladanan apa yang dapat digunakan untuk menganalisisnya?",
+            "Sikap apa yang dapat kita teladani dalam kehidupan sehari-hari di madrasah?"
+          ]
+        },
+        "activity": {
+          "title": "Aktivitas Belajar: Refleksi Kebangsaan",
+          "steps": [
+            "Amati reka ulang/teks dialog sejarah perumusan Pancasila dalam Sidang I BPUPK.",
+            "Diskusikan nilai keteladanan para tokoh bersama kelompok.",
+            "Susun refleksi singkat tentang rasa syukur dan penerapan nilai dasar negara di lingkungan madrasah."
+          ],
+          "prompt": "Tuliskan hasil refleksi keteladanan tokoh perumus Pancasila.",
+          "placeholder": "Catatan refleksi kelompok kami..."
+        },
+        "practice": [
+          {
+            "q": "Sidang pertama BPUPK yang berlangsung pada 29 Mei - 1 Juni 1945 utamanya membahas tentang...",
+            "options": [
+              "Rumusan Dasar Negara",
+              "Bentuk Negara Republik",
+              "Lagu Kebangsaan",
+              "Batas Wilayah Negara"
+            ],
+            "answer": 0,
+            "explanation": "Sidang I BPUPK berfokus pada pembahasan dan pencetus ide rumusan dasar negara Indonesia."
+          }
+        ],
+        "assessment": [
+          {
+            "q": "Jelaskan nilai keteladanan utama dari para tokoh pendiri bangsa saat merumuskan Pancasila dalam BPUPK!",
+            "keywords": [
+              "musyawarah",
+              "toleransi",
+              "jiwa besar",
+              "cinta tanah air"
+            ],
+            "sample": "Pendiri bangsa menunjukkan kebesaran jiwa, mengutamakan kepentingan bersama di atas kepentingan pribadi/golongan, serta saling menghormati perbedaan pendapat."
+          }
+        ],
+        "summary": [
+          "Perumusan Pancasila merupakan momentum bersejarah yang berlandaskan rasa kebangsaan dan ketuhanan.",
+          "Sikap musyawarah dan keterbukaan tokoh bangsa menjadi fondasi utama kesatuan NKRI."
+        ],
+        "reflection": [
+          "Bagaimana saya menerapkan sikap saling menghormati perbedaan pendapat di kelas?",
+          "Nilai Pancasila mana yang paling berkesan bagi saya hari ini?"
+        ]
+      }
+    },
+    {
+      "id": "tp-2",
+      "semester": 1,
+      "bab": "Bab 1 • Proses Perumusan dan Penetapan Pancasila sebagai Dasar Negara",
+      "meeting": 2,
+      "title": "Peran Tokoh Pendiri Negara dalam BPUPK",
+      "tp": "Meneladani kebesaran jiwa dan kesantunan para pendiri negara dalam merumuskan dasar negara melalui sosiodrama/dialog kebangsaan (Meaningful & Cinta Sesama).",
+      "material": "Peran Tokoh Pendiri Negara dalam BPUPK",
+      "time": "2 JP",
+      "focus": "Meaningful & Cinta Sesama",
+      "status": "draft",
+      "lesson": {
+        "hook": "Bagaimana cara kita menyampaikan pendapat secara santun tanpa menyakiti perasaan teman?",
+        "objectives": [
+          "Mengidentifikasi peran dan pemikiran para tokoh pendiri negara dalam BPUPK.",
+          "Menerapkan sikap santun dan tenggang rasa dalam berdialog."
+        ],
+        "sections": [
+          {
+            "title": "Konsep Inti: Keteladanan Tokoh BPUPK",
+            "body": "Tokoh-tokoh seperti Moh. Yamin, Soepomo, dan Soekarno menyampaikan gagasan dengan bahasa yang santun, saling menghargai, serta menempatkan persatuan di atas segalanya.",
+            "points": [
+              "Gagasan lisan dan tertulis para tokoh.",
+              "Sikap saling menghormati antar anggota BPUPK.",
+              "Kesantunan bertutur kata dalam menyampaikan argumentasi."
+            ]
+          }
+        ],
+        "case": {
+          "title": "Studi Kasus: Dialog Santun Berbeda Pendapat",
+          "body": "Simulasi dialog antara dua pihak yang memiliki perbedaan sudut pandang mengenai aturan kelas.",
+          "questions": [
+            "Bagaimana cara menyampaikan perbedaan pendapat tanpa emosi?",
+            "Mengapa kesantunan penting dalam mencapai kesepakatan?"
+          ]
+        },
+        "activity": {
+          "title": "Sosiodrama Kebangsaan",
+          "steps": [
+            "Bagi kelompok dan bagikan peran tokoh pendiri negara.",
+            "Lakukan simulasi sidang BPUPK dengan fokus pada kesantunan bahasa.",
+            "Evaluasi bersama sikap keteladanan yang ditunjukkan."
+          ],
+          "prompt": "Tuliskan kesan dan pelajaran dari sosiodrama yang dilakukan.",
+          "placeholder": "Catatan sosiodrama..."
+        },
+        "practice": [
+          {
+            "q": "Sikap utama yang ditunjukkan tokoh bangsa saat berbeda pendapat dalam sidang BPUPK adalah...",
+            "options": [
+              "Saling menghormati dan mengutamakan persatuan",
+              "Mempertahankan pendapat pribadi secara mutlak",
+              "Meninggalkan ruang sidang",
+              "Menolak mendengarkan usulan lain"
+            ],
+            "answer": 0,
+            "explanation": "Para tokoh pendiri negara selalu mengedepankan musyawarah dan saling menghormati."
+          }
+        ],
+        "assessment": [
+          {
+            "q": "Mengapa kesantunan berpendapat sangat penting dalam kehidupan bermasyarakat?",
+            "keywords": [
+              "kesantunan",
+              "kerukunan",
+              "menghargai",
+              "mencegah konflik"
+            ],
+            "sample": "Kesantunan berpendapat menjaga suasana damai dan mencegah timbulnya perpecahan atau konflik sosial."
+          }
+        ],
+        "summary": [
+          "Perbedaan pendapat adalah hal wajar, namun harus disikapi dengan kesantunan dan emosi yang terjaga.",
+          "Cinta sesama diwujudkan melalui tutur kata yang baik dan tenggang rasa."
+        ],
+        "reflection": [
+          "Apakah saya sudah berbicara santun saat berbeda pendapat dengan teman?",
+          "Apa langkah saya untuk menjadi pribadi yang lebih sabar dan menghargai orang lain?"
+        ]
+      }
+    },
+    {
+      "id": "tp-3",
+      "semester": 1,
+      "bab": "Bab 1 • Proses Perumusan dan Penetapan Pancasila sebagai Dasar Negara",
+      "meeting": 3,
+      "title": "Semangat & Komitmen Pendiri Negara",
+      "tp": "Menganalisis komitmen kebangsaan dan peristiwa kesepakatan perubahan 7 kata dalam Piagam Jakarta sebagai konsensus persatuan (Tasamuh & Hubbul Wathan).",
+      "material": "Semangat & Komitmen Pendiri Negara",
+      "time": "2 JP",
+      "focus": "Tasamuh & Hubbul Wathan",
+      "status": "draft",
+      "lesson": {
+        "hook": "Mengapa para tokoh Islam saat itu rela mengubah 7 kata dalam Piagam Jakarta demi keutuhan Indonesia?",
+        "objectives": [
+          "Menganalisis sejarah perumusan Piagam Jakarta oleh Panitia Sembilan.",
+          "Menjelaskan makna tenggang rasa (tasamuh) dalam kesepakatan perubahan 7 kata demi NKRI."
+        ],
+        "sections": [
+          {
+            "title": "Konsep Inti: Piagam Jakarta dan Konsensus Kebangsaan",
+            "body": "Panitia Sembilan berhasil merumuskan Piagam Jakarta pada 22 Juni 1945. Demi menjaga persatuan Indonesia dari Sabang sampai Merauke, terjadi perubahan legendaris pada Sila Pertama.",
+            "points": [
+              "Peran Panitia Sembilan dalam menjembatani kebangsaan dan keagamaan.",
+              "Peristiwa 18 Agustus 1945: Perubahan 7 kata Piagam Jakarta.",
+              "Nilai kesetaraan dan tenggang rasa (tasamuh) demi persatuan tanah air."
+            ]
+          }
+        ],
+        "case": {
+          "title": "Studi Kasus: Pengorbanan Demi Kebersamaan",
+          "body": "Menelaah keputusan Ki Bagus Hadikusumo, Kasman Singodimedjo, dan Moh. Hatta dalam mencapai kesepakatan nasional.",
+          "questions": [
+            "Mengapa keputusan tersebut disebut sebagai bukti cinta tanah air tertinggi?",
+            "Bagaimana prinsip tasamuh diterapkan dalam peristiwa ini?"
+          ]
+        },
+        "activity": {
+          "title": "Analisis Dokumen Sejarah",
+          "steps": [
+            "Baca naskah Piagam Jakarta dan naskah Pembukaan UUD 1945.",
+            "Bandingkan rumusan Sila Pertama sebelum dan sesudah perubahan.",
+            "Diskusi kelompok tentang kebesaran jiwa para tokoh."
+          ],
+          "prompt": "Tuliskan hasil analisis perbandingan dan maknanya bagi Indonesia.",
+          "placeholder": "Hasil analisis..."
+        },
+        "practice": [
+          {
+            "q": "Panitia Sembilan dibentuk untuk menyelaraskan usulan dasar negara dan menghasilkan naskah...",
+            "options": [
+              "Piagam Jakarta",
+              "Teks Proklamasi",
+              "Sumpah Pemuda",
+              "Dekrit Presiden"
+            ],
+            "answer": 0,
+            "explanation": "Panitia Sembilan menghasilkan rancangan Pembukaan UUD yang dikenal sebagai Piagam Jakarta (Jakarta Charter)."
+          }
+        ],
+        "assessment": [
+          {
+            "q": "Jelaskan makna sikap tasamuh yang ditunjukkan para tokoh Islam dalam perubahan Piagam Jakarta!",
+            "keywords": [
+              "tasamuh",
+              "toleransi",
+              "persatuan",
+              "NKRI",
+              "pengorbanan"
+            ],
+            "sample": "Para tokoh menunjukkan toleransi tinggi (tasamuh) dengan merelakan perubahan kalimat demi menjaga keutuhan dan persatuan seluruh elemen bangsa Indonesia."
+          }
+        ],
+        "summary": [
+          "Konsensus kebangsaan membuktikan bahwa Indonesia berdiri di atas landasan persatuan dan toleransi.",
+          "Cinta tanah air diwujudkan dengan mendahulukan kepentingan bangsa di atas kepentingan kelompok."
+        ],
+        "reflection": [
+          "Bagaimana saya bisa bersikap toleran kepada teman yang berbeda keyakinan atau suku?",
+          "Apa arti persatuan bagi kehidupan saya sehari-hari?"
+        ]
+      }
+    },
+    {
+      "id": "tp-4",
+      "semester": 1,
+      "bab": "Bab 1 • Proses Perumusan dan Penetapan Pancasila sebagai Dasar Negara",
+      "meeting": 4,
+      "title": "Perwujudan Nilai Semangat Pancasila",
+      "tp": "Menerapkan nilai-nilai Pancasila serta perilaku kasih sayang dan nirkekerasan (non-violence) dalam sikap dan perilaku sehari-hari di madrasah (Joyful & KBC).",
+      "material": "Perwujudan Nilai Semangat Pancasila",
+      "time": "2 JP",
+      "focus": "Joyful & KBC",
+      "status": "draft"
+    },
+    {
+      "id": "tp-5",
+      "semester": 1,
+      "bab": "Bab 2 • Norma-Norma dalam Kehidupan Bermasyarakat",
+      "meeting": 5,
+      "title": "Pengertian & Jenis-Jenis Norma",
+      "tp": "Memahami pengertian, hakikat, dan jenis-jenis norma (agama, kesusilaan, kesopanan, hukum) sebagai wujud ketaatan dan keharmonisan sosial (Mindful).",
+      "material": "Pengertian & Jenis-Jenis Norma",
+      "time": "2 JP",
+      "focus": "Mindful",
+      "status": "draft"
+    },
+    {
+      "id": "tp-6",
+      "semester": 1,
+      "bab": "Bab 2 • Norma-Norma dalam Kehidupan Bermasyarakat",
+      "meeting": 6,
+      "title": "Hakikat Norma & Adat Istiadat Masyarakat",
+      "tp": "Menganalisis norma dan adat istiadat yang berlaku di masyarakat serta mengikis kecenderungan perundungan (anti-bullying) (Cinta Sesama).",
+      "material": "Hakikat Norma & Adat Istiadat Masyarakat",
+      "time": "2 JP",
+      "focus": "Cinta Sesama",
+      "status": "draft"
+    },
+    {
+      "id": "tp-7",
+      "semester": 1,
+      "bab": "Bab 2 • Norma-Norma dalam Kehidupan Bermasyarakat",
+      "meeting": 7,
+      "title": "Hakikat & Arti Penting Hukum",
+      "tp": "Menganalisis arti penting hukum dan kesadaran ketaatan hukum (legal awareness) secara adil dan bertanggung jawab (Meaningful).",
+      "material": "Hakikat & Arti Penting Hukum",
+      "time": "2 JP",
+      "focus": "Meaningful",
+      "status": "draft"
+    },
+    {
+      "id": "tp-8",
+      "semester": 1,
+      "bab": "Bab 2 • Norma-Norma dalam Kehidupan Bermasyarakat",
+      "meeting": 8,
+      "title": "Analisis Peraturan Lingkungan Madrasah",
+      "tp": "Menganalisis peraturan dan norma yang ada di lingkungan sekolah/madrasah serta merumuskan aksi sekolah ramah (Meaningful).",
+      "material": "Analisis Peraturan Lingkungan Madrasah",
+      "time": "2 JP",
+      "focus": "Meaningful",
+      "status": "draft"
+    },
+    {
+      "id": "tp-9",
+      "semester": 1,
+      "bab": "Bab 2 • Norma-Norma dalam Kehidupan Bermasyarakat",
+      "meeting": 9,
+      "title": "Penerapan Norma & Etika Kesantunan",
+      "tp": "Menerapkan norma-norma, kebiasaan, dan etika kesantunan dalam kehidupan bermasyarakat dan bernegara berbasis kasih sayang (Joyful & KBC).",
+      "material": "Penerapan Norma & Etika Kesantunan",
+      "time": "2 JP",
+      "focus": "Joyful & KBC",
+      "status": "draft"
+    },
+    {
+      "id": "tp-10",
+      "semester": 1,
+      "bab": "Bab 3 • Proses Kesejarahan Perumusan dan Pengesahan UUD NRI 1945",
+      "meeting": 10,
+      "title": "Hakikat Konstitusi & UUD NRI 1945",
+      "tp": "Memahami hakikat konstitusi dan fungsi UUD NRI Tahun 1945 sebagai hukum dasar tertulis tertinggi yang menjiwai kehidupan berbangsa (Mindful).",
+      "material": "Hakikat Konstitusi & UUD NRI 1945",
+      "time": "2 JP",
+      "focus": "Mindful",
+      "status": "draft"
+    },
+    {
+      "id": "tp-11",
+      "semester": 1,
+      "bab": "Bab 3 • Proses Kesejarahan Perumusan dan Pengesahan UUD NRI 1945",
+      "meeting": 11,
+      "title": "Sejarah Perumusan UUD NRI 1945",
+      "tp": "Menganalisis sejarah perumusan UUD NRI Tahun 1945 oleh BPUPK dengan mengapresiasi kebersamaan dan musyawarah para tokoh bangsa (Hubbul Wathan).",
+      "material": "Sejarah Perumusan UUD NRI 1945",
+      "time": "2 JP",
+      "focus": "Hubbul Wathan",
+      "status": "draft"
+    },
+    {
+      "id": "tp-12",
+      "semester": 2,
+      "bab": "Bab 3 • Proses Kesejarahan Perumusan dan Pengesahan UUD NRI 1945",
+      "meeting": 12,
+      "title": "Pengesahan UUD NRI 1945 oleh PPKI",
+      "tp": "Menganalisis proses pengesahan UUD NRI Tahun 1945 pada Sidang PPKI 18 Agustus 1945 serta menginternalisasi keikhlasan berkorban (Mindful & KBC).",
+      "material": "Pengesahan UUD NRI 1945 oleh PPKI",
+      "time": "2 JP",
+      "focus": "Mindful & KBC",
+      "status": "draft"
+    },
+    {
+      "id": "tp-13",
+      "semester": 2,
+      "bab": "Bab 3 • Proses Kesejarahan Perumusan dan Pengesahan UUD NRI 1945",
+      "meeting": 13,
+      "title": "Keteladanan Tokoh Perumus UUD NRI 1945",
+      "tp": "Meneladani keteladanan, kesederhanaan, dan komitmen para tokoh perumus UUD NRI Tahun 1945 dalam kehidupan murid di madrasah (Meaningful).",
+      "material": "Keteladanan Tokoh Perumus UUD NRI 1945",
+      "time": "2 JP",
+      "focus": "Meaningful",
+      "status": "draft"
+    },
+    {
+      "id": "tp-14",
+      "semester": 2,
+      "bab": "Bab 4 • Keberagaman dalam Bingkai Bhinneka Tunggal Ika",
+      "meeting": 14,
+      "title": "Makna & Hakikat Keberagaman SARA",
+      "tp": "Menganalisis makna keberagaman SARA sebagai karunia ciptaan Allah SWT yang patut disyukuri dan dirawat (Cinta Allah & Alam).",
+      "material": "Makna & Hakikat Keberagaman SARA",
+      "time": "2 JP",
+      "focus": "Cinta Allah & Alam",
+      "status": "draft"
+    },
+    {
+      "id": "tp-15",
+      "semester": 2,
+      "bab": "Bab 4 • Keberagaman dalam Bingkai Bhinneka Tunggal Ika",
+      "meeting": 15,
+      "title": "Peta Keberagaman di Indonesia",
+      "tp": "Menganalisis keanekaragaman suku, agama, ras, dan antargolongan di Indonesia serta mengikis etnosentrisme dan stereotipe (Meaningful).",
+      "material": "Peta Keberagaman di Indonesia",
+      "time": "2 JP",
+      "focus": "Meaningful",
+      "status": "draft"
+    },
+    {
+      "id": "tp-16",
+      "semester": 2,
+      "bab": "Bab 4 • Keberagaman dalam Bingkai Bhinneka Tunggal Ika",
+      "meeting": 16,
+      "title": "Keberagaman & Moderasi Beragama",
+      "tp": "Menerapkan sikap Moderasi Beragama (tasamuh, tawassuth) dan persaudaraan kemanusiaan dalam interaksi kebinekaan (Cinta Sesama).",
+      "material": "Keberagaman & Moderasi Beragama",
+      "time": "2 JP",
+      "focus": "Cinta Sesama",
+      "status": "draft"
+    },
+    {
+      "id": "tp-17",
+      "semester": 2,
+      "bab": "Bab 5 • Kerja Sama dalam Berbagai Bidang Kehidupan di Masyarakat",
+      "meeting": 17,
+      "title": "Makna Kerja Sama & Gotong Royong",
+      "tp": "Menganalisis makna dan nilai kebaikan dalam kerja sama/gotong royong sebagai tradisi luhur bangsa Indonesia (Mindful).",
+      "material": "Makna Kerja Sama & Gotong Royong",
+      "time": "2 JP",
+      "focus": "Mindful",
+      "status": "draft"
+    },
+    {
+      "id": "tp-18",
+      "semester": 2,
+      "bab": "Bab 5 • Kerja Sama dalam Berbagai Bidang Kehidupan di Masyarakat",
+      "meeting": 18,
+      "title": "Kerja Sama dalam Berbagai Bidang",
+      "tp": "Mengidentifikasi bentuk-bentuk kerja sama di lingkungan madrasah, masyarakat, dan kehidupan berbangsa (Meaningful).",
+      "material": "Kerja Sama dalam Berbagai Bidang",
+      "time": "2 JP",
+      "focus": "Meaningful",
+      "status": "draft"
+    },
+    {
+      "id": "tp-19",
+      "semester": 2,
+      "bab": "Bab 5 • Kerja Sama dalam Berbagai Bidang Kehidupan di Masyarakat",
+      "meeting": 19,
+      "title": "Praktik Gotong Royong & Empati Sosial",
+      "tp": "Mempraktikkan kegiatan gotong royong dan empati sosial untuk membantu sesama di lingkungan sekitar secara gembira (Joyful & KBC).",
+      "material": "Praktik Gotong Royong & Empati Sosial",
+      "time": "2 JP",
+      "focus": "Joyful & KBC",
+      "status": "draft"
+    },
+    {
+      "id": "tp-20",
+      "semester": 2,
+      "bab": "Bab 6 • Karakteristik Daerah Tempat Tinggal dalam Kerangka NKRI",
+      "meeting": 20,
+      "title": "Karakteristik Daerah Tempat Tinggal",
+      "tp": "Menganalisis karakteristik daerah tempat tinggal (Kanreapia/Gowa) dan pentingnya menjaga persatuan NKRI (Hubbul Wathan).",
+      "material": "Karakteristik Daerah Tempat Tinggal",
+      "time": "2 JP",
+      "focus": "Hubbul Wathan",
+      "status": "draft"
+    },
+    {
+      "id": "tp-21",
+      "semester": 2,
+      "bab": "Bab 6 • Karakteristik Daerah Tempat Tinggal dalam Kerangka NKRI",
+      "meeting": 21,
+      "title": "Makna Sejarah Berdirinya NKRI",
+      "tp": "Menganalisis makna sejarah berdirinya NKRI serta peran historis daerah dalam perjuangan mempertahankan kemerdekaan (Meaningful).",
+      "material": "Makna Sejarah Berdirinya NKRI",
+      "time": "2 JP",
+      "focus": "Meaningful",
+      "status": "draft"
+    },
+    {
+      "id": "tp-22",
+      "semester": 2,
+      "bab": "Bab 6 • Karakteristik Daerah Tempat Tinggal dalam Kerangka NKRI",
+      "meeting": 22,
+      "title": "Pelestarian Kearifan Lokal & NKRI",
+      "tp": "Menyajikan karya/laporan apresiasi kearifan lokal daerah dan komitmen menjaga keutuhan wilayah NKRI (Joyful & KBC).",
+      "material": "Pelestarian Kearifan Lokal & NKRI",
+      "time": "2 JP",
+      "focus": "Joyful & KBC",
+      "status": "draft"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Pancasila",
+      "definition": "Dasar negara, pandangan hidup, dan ideologi bangsa Indonesia."
+    },
+    {
+      "term": "BPUPK",
+      "definition": "Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan."
+    },
+    {
+      "term": "Tasamuh",
+      "definition": "Sikap toleransi dan saling menghormati dalam perbedaan."
+    },
+    {
+      "term": "Hubbul Wathan",
+      "definition": "Semangat cinta tanah air dan kebangsaan."
+    },
+    {
+      "term": "Bhinneka Tunggal Ika",
+      "definition": "Slogan persatuan Indonesia yang berarti berbeda-beda tetapi tetap satu jua."
+    },
+    {
+      "term": "Bela Negara",
+      "definition": "Sikap dan perilaku warga negara yang dijiwai oleh kecintaannya kepada NKRI berdasarkan Pancasila dan UUD 1945."
+    }
+  ]
+}
