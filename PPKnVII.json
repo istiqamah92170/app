@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "title": "Media Pembelajaran [Mata Pelajaran] Kelas [Kelas]",
+    "subtitle": "Kurikulum Merdeka • Pembelajaran Mendalam",
+    "school": "Nama Satuan Pendidikan",
+    "course": "Mata Pelajaran",
+    "grade": "Kelas / Fase",
+    "year": "Tahun Pelajaran"
+  },
+  "atp": [
+    {
+      "id": "tp-1",
+      "semester": 1,
+      "bab": "Bab 1 • Nama Bab",
+      "meeting": 1,
+      "title": "Judul pertemuan sesuai TP pertama",
+      "tp": "Tuliskan tujuan pembelajaran secara lengkap sesuai ATP.",
+      "material": "Materi pokok",
+      "time": "2 JP",
+      "focus": "Fokus karakter / dimensi profil",
+      "status": "draft",
+      "lesson": {
+        "hook": "Pertanyaan pemantik yang dekat dengan kehidupan peserta didik dan mengundang rasa ingin tahu.",
+        "objectives": [
+          "Tujuan terukur pertama yang diturunkan dari TP.",
+          "Tujuan terukur kedua yang mendukung pemahaman mendalam."
+        ],
+        "sections": [
+          {
+            "title": "Konsep inti 1",
+            "body": "Uraikan konsep secara runtut: definisi, konteks, penjelasan, contoh, dan hubungan dengan tujuan pembelajaran.",
+            "points": [
+              "Poin penting pertama",
+              "Poin penting kedua",
+              "Contoh penerapan dalam kehidupan nyata"
+            ]
+          },
+          {
+            "title": "Konsep inti 2",
+            "body": "Kembangkan penjelasan berikutnya. Tambahkan ilustrasi atau sumber tepercaya bila diperlukan.",
+            "points": [
+              "Poin penting",
+              "Kesalahan pemahaman yang perlu dihindari"
+            ]
+          }
+        ],
+        "case": {
+          "title": "Studi kasus kontekstual",
+          "body": "Jelaskan situasi nyata yang relevan dengan materi dan sesuai usia peserta didik.",
+          "questions": [
+            "Apa masalah utama dalam kasus tersebut?",
+            "Konsep apa yang dapat digunakan untuk menganalisisnya?",
+            "Apa solusi yang dapat dipertanggungjawabkan?"
+          ]
+        },
+        "activity": {
+          "title": "Aktivitas belajar",
+          "steps": [
+            "Amati stimulus atau sumber yang disediakan.",
+            "Diskusikan temuan dengan kelompok atau secara mandiri.",
+            "Susun jawaban dengan bukti dan alasan.",
+            "Sampaikan hasil dan perbaiki berdasarkan umpan balik."
+          ],
+          "prompt": "Tuliskan produk atau jawaban yang diharapkan.",
+          "placeholder": "Catatan/hasil kerja saya..."
+        },
+        "practice": [
+          {
+            "q": "Pertanyaan latihan pilihan ganda berdasarkan materi.",
+            "options": [
+              "Pilihan A",
+              "Pilihan B",
+              "Pilihan C",
+              "Pilihan D"
+            ],
+            "answer": 0,
+            "explanation": "Jelaskan alasan jawaban benar dan mengapa konsep tersebut tepat."
+          }
+        ],
+        "assessment": [
+          {
+            "q": "Pertanyaan evaluasi yang meminta penjelasan atau penerapan konsep.",
+            "keywords": [
+              "konsep utama",
+              "alasan",
+              "contoh"
+            ],
+            "sample": "Contoh jawaban atau kriteria inti yang diharapkan; guru tetap menilai jawaban siswa."
+          }
+        ],
+        "summary": [
+          "Gagasan inti pertama yang perlu diingat.",
+          "Hubungan konsep dengan konteks nyata.",
+          "Penerapan atau kesimpulan utama."
+        ],
+        "reflection": [
+          "Bagian mana yang paling saya pahami dan mengapa?",
+          "Apa yang masih perlu saya pelajari atau tanyakan?",
+          "Bagaimana saya menerapkan pemahaman ini?"
+        ]
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Istilah utama",
+      "definition": "Definisi singkat dan akurat sesuai sumber pembelajaran."
+    }
+  ]
+}
