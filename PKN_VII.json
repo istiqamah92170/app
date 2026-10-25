@@ -20,76 +20,186 @@
       "focus": "Mindful & Cinta Allah",
       "status": "draft",
       "lesson": {
-        "hook": "Mengapa para pendiri negara kita dapat saling menghormati meskipun memiliki latar belakang pemikiran dan pandangan yang berbeda saat merumuskan dasar negara?",
-        "objectives": [
-          "Menjelaskan latar belakang sejarah pembentukan BPUPK dan proses perumusan Pancasila.",
-          "Menganalisis nilai-nilai keteladanan dan rasa syukur atas perjuangan serta adab kebangsaan para pendiri bangsa."
-        ],
-        "sections": [
-          {
-            "title": "Konsep Inti: Perumusan Dasar Negara dalam BPUPK",
-            "body": "Proses perumusan Pancasila dilakukan dalam Sidang I BPUPK (29 Mei - 1 Juni 1945) oleh para pendiri bangsa dengan mengedepankan musyawarah, adab kebangsaan, dan rasa keimanan.",
-            "points": [
-              "Pembentukan BPUPK pada 1 Maret 1945 dan tugas utamanya menyelidiki usaha persiapan kemerdekaan.",
-              "Usulan gagasan dasar negara oleh Mr. Mohammad Yamin, Prof. Dr. Soepomo, dan Ir. Soekarno.",
-              "Integrasi nilai ketuhanan, kemanusiaan, persatuan, kerakyatan, dan keadilan sosial."
-            ]
-          }
-        ],
-        "case": {
-          "title": "Studi Kasus: Musyawarah Kebangsaan Pendiri Negara",
-          "body": "Menganalisis dinamika perbedaan pendapat antara para tokoh kebangsaan saat Sidang BPUPK dan bagaimana mereka menyelesaikannya secara damai dan beradab.",
-          "questions": [
-            "Apa masalah utama dan perbedaan pandangan dalam sidang tersebut?",
-            "Konsep keteladanan apa yang dapat digunakan untuk menganalisisnya?",
-            "Sikap apa yang dapat kita teladani dalam kehidupan sehari-hari di madrasah?"
-          ]
-        },
-        "activity": {
-          "title": "Aktivitas Belajar: Refleksi Kebangsaan",
-          "steps": [
-            "Amati reka ulang/teks dialog sejarah perumusan Pancasila dalam Sidang I BPUPK.",
-            "Diskusikan nilai keteladanan para tokoh bersama kelompok.",
-            "Susun refleksi singkat tentang rasa syukur dan penerapan nilai dasar negara di lingkungan madrasah."
-          ],
-          "prompt": "Tuliskan hasil refleksi keteladanan tokoh perumus Pancasila.",
-          "placeholder": "Catatan refleksi kelompok kami..."
-        },
-        "practice": [
-          {
-            "q": "Sidang pertama BPUPK yang berlangsung pada 29 Mei - 1 Juni 1945 utamanya membahas tentang...",
-            "options": [
-              "Rumusan Dasar Negara",
-              "Bentuk Negara Republik",
-              "Lagu Kebangsaan",
-              "Batas Wilayah Negara"
-            ],
-            "answer": 0,
-            "explanation": "Sidang I BPUPK berfokus pada pembahasan dan pencetus ide rumusan dasar negara Indonesia."
-          }
-        ],
-        "assessment": [
-          {
-            "q": "Jelaskan nilai keteladanan utama dari para tokoh pendiri bangsa saat merumuskan Pancasila dalam BPUPK!",
-            "keywords": [
-              "musyawarah",
-              "toleransi",
-              "jiwa besar",
-              "cinta tanah air"
-            ],
-            "sample": "Pendiri bangsa menunjukkan kebesaran jiwa, mengutamakan kepentingan bersama di atas kepentingan pribadi/golongan, serta saling menghormati perbedaan pendapat."
-          }
-        ],
-        "summary": [
-          "Perumusan Pancasila merupakan momentum bersejarah yang berlandaskan rasa kebangsaan dan ketuhanan.",
-          "Sikap musyawarah dan keterbukaan tokoh bangsa menjadi fondasi utama kesatuan NKRI."
-        ],
-        "reflection": [
-          "Bagaimana saya menerapkan sikap saling menghormati perbedaan pendapat di kelas?",
-          "Nilai Pancasila mana yang paling berkesan bagi saya hari ini?"
-        ]
-      }
-    },
+"hook": "Mengapa para pendiri negara kita dapat saling menghormati meskipun memiliki latar belakang pemikiran dan pandangan yang berbeda saat merumuskan dasar negara?",
+"objectives": [
+"Menjelaskan latar belakang sejarah pembentukan BPUPK serta tugas utamanya dalam persiapan kemerdekaan Indonesia.",
+"Menganalisis proses perumusan dasar negara dan pemikiran para tokoh dalam Sidang Pertama BPUPK.",
+"Mengidentifikasi nilai-nilai keteladanan, kebersamaan, dan adab kebangsaan para perumus dasar negara.",
+"Mengorelasikan nilai-nilai perumusan Pancasila dengan pembentukan karakter beradab, mindful, dan rasa syukur (Cinta Allah) dalam kehidupan sehari-hari."
+],
+"sections": [
+{
+"title": "Latar Belakang Sejarah Pembentukan BPUPK",
+"body": "Pengumuman mengenai pembentukan Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan (BPUPK) disampaikan oleh Panglima Tentara Ke-16 Jepang, Letnan Jenderal Kumakichi Harada, pada tanggal 1 Maret 1945. Namun, BPUPK baru resmi dibentuk pada tanggal 29 April 1945 bersamaan dengan hari ulang tahun Kaisar Hirohito, dan pelantikan anggotanya dilaksanakan pada 28 Mei 1945. BPUPK dipimpin oleh Dr. K.R.T. Radjiman Wedyodiningrat dengan dua wakil ketua, yaitu Ichibangase Yosio dari pihak Jepang dan R.P. Soeroso dari pihak Indonesia. Badan ini bertugas menyelidiki, mengumpulkan usulan, serta menyusulkan rancangan penting yang berkaitan dengan persiapan kemerdekaan Indonesia. Kehadiran BPUPK dimanfaatkan secara maksimal oleh para tokoh kebangsaan untuk meletakkan dasar hukum dan dasar negara yang kokoh bagi Indonesia merdeka.",
+"points": [
+"Pengumuman pembentukan BPUPK disampaikan pada 1 Maret 1945 dan resmi dibentuk pada 29 April 1945.",
+"Pelantikan anggota BPUPK dilaksanakan pada 28 Mei 1945 di Gedung Chuo Sangi In, Jakarta.",
+"Struktur pimpinan terdiri atas Dr. K.R.T. Radjiman Wedyodiningrat, Ichibangase Yosio, dan R.P. Soeroso.",
+"Tugas utama BPUPK adalah menyelidiki dan menyusun persiapan kemerdekaan Indonesia.",
+"Anggota BPUPK mewakili berbagai golongan, kelompok pemikiran, dan daerah di Indonesia."
+]
+},
+{
+"title": "Dinamika Pemikiran Tokoh dalam Sidang Pertama BPUPK",
+"body": "Sidang Pertama BPUPK berlangsung dari tanggal 29 Mei hingga 1 Juni 1945 untuk menjawab pertanyaan Ketua BPUPK, Dr. K.R.T. Radjiman Wedyodiningrat, mengenai apa dasar negara Indonesia merdeka. Tiga tokoh utama memaparkan gagasan mereka secara bergantian. Mr. Mohammad Yamin menyampaikan pidato lisan pada 29 Mei 1945 yang memuat lima asas (Peri Kebangsaan, Peri Kemanusiaan, Peri Ketuhanan, Peri Kerakyatan, dan Kesejahteraan Rakyat), serta lampiran naskah tertulis yang memuat rumusan berbeda. Prof. Dr. Soepomo pada 31 Mei 1945 memaparkan teori Negara Integralistik atau kekeluargaan. Pada 1 Juni 1945, Ir. Soekarno menyampaikan pidato monumental yang memperkenalkan lima prinsip dasar negara dan menyebutnya dengan nama Pancasila.",
+"points": [
+"Sidang Pertama BPUPK berfokus pada perumusan fondasi atau dasar negara Indonesia merdeka.",
+"Mr. Mohammad Yamin menyampaikan usulan lisan pada 29 Mei 1945 dan memberikan naskah tertulis rancangan dasar negara.",
+"Prof. Dr. Soepomo pada 31 Mei 1945 mengusulkan paham negara integralistik berbasis kekeluargaan.",
+"Ir. Soekarno pada 1 Juni 1945 menyampaikan usulan lima dasar negara yang dinamai Pancasila.",
+"Pidato Ir. Soekarno pada 1 Juni 1945 menjadi landasan penetapan Hari Lahir Pancasila."
+]
+},
+{
+"title": "Integrasi Nilai Ketuhanan dan Adab Kebangsaan",
+"body": "Proses perumusan dasar negara dalam BPUPK mencerminkan perpaduan antara kesadaran nilai-nilai ketuhanan dan adab kebangsaan. Para perumus dasar negara menempatkan prinsip ketuhanan sebagai salah satu pilar utama pembangunan bangsa. Dalam mengemukakan ide serta gagasan politik, para tokoh bangsa mengedepankan musyawarah, kesantunan bertutur kata, dan saling menghormati perbedaan pendapat. Sikap menghargai keberagaman pandangan ini menunjukkan kebesaran jiwa para pendiri bangsa demi tercapainya kesepakatan nasional. Adab kebangsaan yang ditunjukkan para tokoh BPUPK menjadi teladan penting dalam menjaga persatuan bangsa di tengah pluralitas masyarakat Indonesia.",
+"points": [
+"Penempatan nilai ketuhanan sebagai landasan moral dalam perumusan dasar negara.",
+"Penggunaan bahasa yang santun dan adab berpendapat dalam persidangan BPUPK.",
+"Sikap mengedepankan persatuan di atas kepentingan pribadi atau kelompok.",
+"Musyawarah mufakat sebagai metode penyelesaian perbedaan pandangan politik.",
+"Penghormatan terhadap perbedaan sebagai fondasi keutuhan bangsa."
+]
+},
+{
+"title": "Keteladanan Pendiri Bangsa: Mindful dan Cinta Allah",
+"body": "Sikap para pendiri bangsa saat merumuskan dasar negara memberi pelajaran berharga tentang penerapan nilai Mindful (kesadaran penuh) dan Cinta Allah (rasa syukur dan ketakwaan). Meneladani sikap ini dalam kehidupan sehari-hari berarti membiasakan diri untuk berpikir jernih sebelum bertindak, mendengarkan pendapat orang lain dengan seksama, serta bersyukur atas kemerdekaan bangsa Indonesia. Di lingkungan madrasah, siswa dituntut untuk mempraktikkan adab saling menghormati ketika berselisih paham, tidak memaksakan kehendak, dan menjadikan aktivitas belajar sebagai wujud pengabdian kepada Tuhan Yang Maha Esa.",
+"points": [
+"Penerapan kesadaran penuh (mindful) dalam mempertimbangkan kepentingan bersama.",
+"Wujud Cinta Allah melalui rasa syukur dan adab mulia dalam kehidupan berbangsa.",
+"Meneladani sikap saling menghormati dan tenggang rasa di lingkungan sekolah/madrasah.",
+"Mengembangkan kebiasaan berdiskusi secara santun tanpa merendahkan pendapat orang lain.",
+"Komitmen menjaga persatuan dan keharmonisan di tengah keberagaman."
+]
+}
+],
+"case": {
+"title": "Studi Kasus: Musyawarah Kebangsaan Pendiri Negara",
+"body": "Sebagai ilustrasi pembelajaran, bayangkan sebuah situasi diskusi dalam rapat kelas di madrasah. Dua kelompok siswa memiliki gagasan yang sangat berbeda mengenai bentuk kegiatan peringatan hari besar nasional. Kelompok pertama menginginkan kegiatan lomba keagamaan, sedangkan kelompok kedua mengusulkan kegiatan bakti sosial lingkungan. Perdebatan mulai menghangat karena kedua belah pihak merasa gagasannya paling penting. Situasi ini mirip dengan perdebatan para perumus dasar negara dalam Sidang BPUPK, di mana para tokoh memegang latar belakang pemikiran yang beraneka ragam. Namun, para pendiri bangsa berhasil mencapai kesepakatan karena selalu mengedepankan adab berpendapat, saling mendengarkan, dan mengutamakan kepentingan persatuan bangsa.",
+"questions": [
+"Persamaan apa yang dapat kamu temukan antara ilustrasi diskusi di kelas dengan dinamika perdebatan tokoh bangsa pada Sidang BPUPK?",
+"Sikap positif apa yang harus ditunjukkan oleh siswa agar perdebatan pendapat tidak berujung pada perpecahan?",
+"Bagaimana penerapan adab kesantunan berpendapat dapat membantu menyelesaikan perdebatan tersebut?",
+"Bagaimana kamu menerapkan nilai rasa syukur dan keteladanan para tokoh BPUPK saat menghadapi perbedaan pendapat di madrasah?"
+]
+},
+"activity": {
+"title": "Aktivitas Belajar: Refleksi Kebangsaan dan Analisis Keteladanan Tokoh BPUPK",
+"steps": [
+"Bentuklah kelompok kecil yang terdiri dari 4–5 siswa bersama teman sekelasmu.",
+"Bacalah dengan teliti naskah atau uraian materi mengenai sejarah pembentukan BPUPK dan pelaksanaan Sidang Pertama BPUPK.",
+"Diskusikan bersama kelompok mengenai fakta pembentukan BPUPK serta usulan dari Mr. Mohammad Yamin, Prof. Dr. Soepomo, dan Ir. Soekarno.",
+"Identifikasi nilai-nilai adab kebangsaan, kesantunan berpendapat, dan rasa syukur kepada Tuhan Yang Maha Esa dalam proses sidang tersebut.",
+"Tuliskan hasil diskusi kelompok pada lembar kerja dan sampaikan hasilnya di depan kelas."
+],
+"prompt": "Tuliskan hasil analisis dan refleksi keteladanan tokoh perumus Pancasila dalam Sidang BPUPK serta rencana penerapannya di madrasah.",
+"placeholder": "Catatan hasil diskusi kelompok dan refleksi keteladanan..."
+},
+"practice": [
+{
+"q": "Pemerintah pendudukan Jepang mengumumkan rencana pembentukan BPUPK pada 1 Maret 1945, namun badan ini baru resmi dibentuk pada...",
+"options": [
+"29 April 1945",
+"28 Mei 1945",
+"29 Mei 1945",
+"1 Juni 1945"
+],
+"answer": 0,
+"explanation": "Pengumuman pembentukan BPUPK disampaikan pada 1 Maret 1945, tetapi peresmian pembentukannya terjadi pada 29 April 1945 bersamaan dengan ulang tahun Kaisar Hirohito."
+},
+{
+"q": "Ketua BPUPK yang memimpin pelaksanaan sidang perumusan dasar negara Indonesia adalah...",
+"options": [
+"Ir. Soekarno",
+"Drs. Mohammad Hatta",
+"Dr. K.R.T. Radjiman Wedyodiningrat",
+"Mr. Mohammad Yamin"
+],
+"answer": 2,
+"explanation": "Dr. K.R.T. Radjiman Wedyodiningrat bertindak sebagai Ketua BPUPK yang memimpin persidangan dan mengajukan pertanyaan mendasar tentang dasar negara."
+},
+{
+"q": "Tokoh yang memaparkan gagasan dasar negara dengan konsep Negara Integralistik atau paham kekeluargaan pada tanggal 31 Mei 1945 adalah...",
+"options": [
+"Mr. Mohammad Yamin",
+"Prof. Dr. Soepomo",
+"Ir. Soekarno",
+"Mr. A.A. Maramis"
+],
+"answer": 1,
+"explanation": "Prof. Dr. Soepomo menyampaikan pidatonya pada 31 Mei 1945 yang menekankan teori negara integralistik atau kekeluargaan."
+},
+{
+"q": "Istilah 'Pancasila' pertama kali diperkenalkan sebagai nama dasar negara oleh Ir. Soekarno pada tanggal...",
+"options": [
+"29 Mei 1945",
+"31 Mei 1945",
+"1 Juni 1945",
+"22 Juni 1945"
+],
+"answer": 2,
+"explanation": "Ir. Soekarno menyampaikan pidato pada 1 Juni 1945 yang mengusulkan lima prinsip dasar negara yang dinamai Pancasila."
+},
+{
+"q": "Keteladanan adab kebangsaan yang diperlihatkan oleh para perumus dasar negara dalam Sidang BPUPK adalah...",
+"options": [
+"Memaksa pendapat kelompok agar diterima sidang",
+"Mengedepankan kesantunan dan musyawarah di tengah perbedaan pendapat",
+"Menolak mendengarkan gagasan dari tokoh lain",
+"Menyerahkan pembuatan dasar negara kepada pihak asing"
+],
+"answer": 1,
+"explanation": "Para tokoh pendiri negara menunjukkan kebesaran jiwa dengan saling menghormati dan mengutamakan musyawarah demi persatuan bangsa."
+}
+],
+"assessment": [
+{
+"q": "Jelaskan kronologi pembentukan BPUPK mulai dari pengumuman hingga pelantikan anggotanya!",
+"keywords": [
+"1 Maret 1945",
+"29 April 1945",
+"28 Mei 1945",
+"Kumakichi Harada",
+"Radjiman Wedyodiningrat"
+],
+"sample": "Pengumuman pembentukan BPUPK disampaikan oleh Letnan Jenderal Kumakichi Harada pada 1 Maret 1945. BPUPK resmi dibentuk pada 29 April 1945, dan pelantikan anggotanya yang dipimpin oleh Dr. K.R.T. Radjiman Wedyodiningrat dilaksanakan pada 28 Mei 1945."
+},
+{
+"q": "Bagaimana perbedaan usulan rumusan lisan dan naskah tertulis Mr. Mohammad Yamin dalam Sidang I BPUPK?",
+"keywords": [
+"Mohammad Yamin",
+"29 Mei 1945",
+"usulan lisan",
+"naskah tertulis",
+"rancangan dasar negara"
+],
+"sample": "Pada pidato lisan tanggal 29 Mei 1945, Mr. Mohammad Yamin mengusulkan 5 asas: Peri Kebangsaan, Peri Kemanusiaan, Peri Ketuhanan, Peri Kerakyatan, dan Kesejahteraan Rakyat. Sementara dalam naskah tertulis yang disampaikan sebagai lampiran, beliau merumuskan lima rancangan dengan sistematika penulisan yang berbeda."
+},
+{
+"q": "Jelaskan bagaimana siswa madrasah dapat menerapkan adab berpendapat dan nilai keteladanan tokoh BPUPK dalam kehidupan sehari-hari!",
+"keywords": [
+"adab berpendapat",
+"menghargai perbedaan",
+"musyawarah",
+"kesantunan",
+"madrasah"
+],
+"sample": "Siswa dapat menerapkan adab berpendapat dengan cara menyampaikan pandangan secara santun saat berdiskusi di kelas, mendengarkan pendapat teman tanpa memotong pembicaraan, menghargai hasil musyawarah, serta bersyukur atas keberagaman di lingkungan madrasah."
+}
+],
+"summary": [
+"Pengumuman pembentukan BPUPK disampaikan pada 1 Maret 1945 dan resmi dibentuk pada 29 April 1945.",
+"Pelantikan anggota BPUPK dilaksanakan pada 28 Mei 1945 di bawah pimpinan Dr. K.R.T. Radjiman Wedyodiningrat.",
+"Sidang Pertama BPUPK (29 Mei–1 Juni 1945) mendengarkan usulan dasar negara dari Mr. Moh. Yamin, Prof. Dr. Soepomo, dan Ir. Soekarno.",
+"Ir. Soekarno memperkenalkan nama Pancasila pada tanggal 1 Juni 1945.",
+"Para perumus dasar negara meneladankan adab kebangsaan, kesantunan berpendapat, serta keimanan kepada Tuhan Yang Maha Esa."
+],
+"reflection": [
+"Apakah saya sudah membiasakan diri untuk berbicara santun dan mendengarkan pendapat teman saat berdiskusi?",
+"Bagaimana saya wujudkan rasa syukur kepada Tuhan Yang Maha Esa (Cinta Allah) atas jasa para pendiri bangsa?",
+"Sikap keteladanan apa dari para perumus dasar negara yang ingin saya terapkan dalam kehidupan sehari-hari?"
+]
+}
     {
       "id": "tp-2",
       "semester": 1,
